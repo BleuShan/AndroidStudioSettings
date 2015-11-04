@@ -14,6 +14,9 @@
   <action id="EditorDeleteToLineStart">
     <keyboard-shortcut first-keystroke="meta BACK_SPACE" />
   </action>
+  <action id="EditorDeleteToWordEnd">
+    <keyboard-shortcut first-keystroke="meta DELETE" />
+  </action>
   <action id="EditorLookupDown" />
   <action id="EditorLookupUp" />
   <action id="EditorSelectWord" />
@@ -21,6 +24,9 @@
   <action id="EditorUnSelectWord" />
   <action id="MethodDown" />
   <action id="MethodUp" />
+  <action id="SafeDelete">
+    <keyboard-shortcut first-keystroke="alt DELETE" />
+  </action>
   <action id="ShowContent" />
   <action id="StringManipulation.SwitchStyleAction">
     <keyboard-shortcut first-keystroke="shift meta U" />
