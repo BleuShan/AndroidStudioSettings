@@ -5,4 +5,34 @@
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
   </action>
+  <action id="EditorLookupDown" />
+  <action id="EditorLookupUp" />
+  <action id="EditorToggleCase" />
+  <action id="MethodDown" />
+  <action id="MethodUp" />
+  <action id="ShowContent" />
+  <action id="StringManipulation.SwitchStyleAction">
+    <keyboard-shortcut first-keystroke="shift meta u" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.DecrementAction">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.IncrementAction">
+    <keyboard-shortcut first-keystroke="ctrl up" />
+  </action>
 </keymap>
