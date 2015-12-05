@@ -61,7 +61,6 @@
     </option>
     <option name="MANIFEST_SETTINGS">
       <value>
-        <option name="GROUP_TAGS_WITH_SAME_NAME" value="false" />
         <option name="WRAP_ATTRIBUTES" value="4" />
       </value>
     </option>
@@ -146,14 +145,14 @@
   <codeStyleSettings language="Groovy">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="HTML">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="TAB_SIZE" value="2" />
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
@@ -208,7 +207,7 @@
     <option name="ENUM_CONSTANTS_WRAP" value="5" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
     <arrangement>
@@ -473,7 +472,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="JSON">
     <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
@@ -503,7 +502,7 @@
     <option name="FOR_BRACE_FORCE" value="3" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="0" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
@@ -511,7 +510,7 @@
     <option name="FORCE_REARRANGE_MODE" value="1" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="TAB_SIZE" value="2" />
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
@@ -523,7 +522,7 @@
             <match>
               <AND>
                 <NAME>xmlns:android</NAME>
-                <XML_NAMESPACE>Namespace:</XML_NAMESPACE>
+                <XML_NAMESPACE />
               </AND>
             </match>
           </rule>
@@ -533,7 +532,7 @@
             <match>
               <AND>
                 <NAME>xmlns:.*</NAME>
-                <XML_NAMESPACE>Namespace:</XML_NAMESPACE>
+                <XML_NAMESPACE />
               </AND>
             </match>
             <order>BY_NAME</order>
