@@ -7,33 +7,27 @@
             <id />
           </State>
           <State>
-            <id>Concurrency annotation issuesJava</id>
+            <id>Android</id>
           </State>
           <State>
-            <id>DeclarationGroovy</id>
+            <id>Android Lint</id>
           </State>
           <State>
-            <id>Groovy</id>
+            <id>CorrectnessLintAndroid</id>
           </State>
           <State>
-            <id>Initialization issuesJava</id>
+            <id>Gradle</id>
           </State>
           <State>
-            <id>Java</id>
+            <id>LintAndroid</id>
           </State>
           <State>
-            <id>Performance issuesJava</id>
-          </State>
-          <State>
-            <id>Threading issuesGroovy</id>
-          </State>
-          <State>
-            <id>Threading issuesJava</id>
+            <id>Probable bugsGradle</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>NestedSynchronizedStatement</id>
+            <id>AndroidLintVectorRaster</id>
           </State>
         </selected-state>
       </profile-state>
