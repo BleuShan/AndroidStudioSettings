@@ -520,7 +520,7 @@
             <match>
               <AND>
                 <NAME>xmlns:android</NAME>
-                <XML_NAMESPACE />
+                <XML_NAMESPACE>Namespace:</XML_NAMESPACE>
               </AND>
             </match>
           </rule>
@@ -530,7 +530,7 @@
             <match>
               <AND>
                 <NAME>xmlns:.*</NAME>
-                <XML_NAMESPACE />
+                <XML_NAMESPACE>Namespace:</XML_NAMESPACE>
               </AND>
             </match>
             <order>BY_NAME</order>
