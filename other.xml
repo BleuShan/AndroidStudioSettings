@@ -7,6 +7,9 @@
             <id />
           </State>
           <State>
+            <id>Android</id>
+          </State>
+          <State>
             <id>Cloning issuesJava</id>
           </State>
           <State>
@@ -33,7 +36,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>BadExceptionDeclared</id>
+            <id>ResourceType</id>
           </State>
         </selected-state>
       </profile-state>
