@@ -8,7 +8,6 @@
         <option value="reformatChangedCode" />
         <option value="rearrange" />
         <option value="unqualifiedFieldAccess" />
-        <option value="suppressAnnotation" />
       </set>
     </option>
   </component>
