@@ -10,6 +10,9 @@
             <id>Android</id>
           </State>
           <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
             <id>Cloning issuesJava</id>
           </State>
           <State>
@@ -36,7 +39,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>ResourceType</id>
+            <id>UtilityClassCanBeEnum</id>
           </State>
         </selected-state>
       </profile-state>
